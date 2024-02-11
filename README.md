@@ -1,6 +1,10 @@
 # Gifthub
 
-An online gift listing website aimed to provide a seamless integration of customer choices.
+An online gift listing website aimed to provide a seamless integration of customer choices. 
+
+
+
+#Made exclusively for the Code Kshetra Hackathon
 
 
 
