@@ -4,7 +4,7 @@ An online gift listing website aimed to provide a seamless integration of custom
 
 
 
-#Made exclusively for the Code Kshetra Hackathon
+# Made exclusively for the Code Kshetra Hackathon
 
 
 
